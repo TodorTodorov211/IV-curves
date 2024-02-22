@@ -1,0 +1,2 @@
+Voltage[V]	Current[mA]
+-2,000000	-0,066682
